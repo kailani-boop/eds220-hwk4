@@ -17,7 +17,7 @@ eds220-hwk4
 The data is not stored in this repository.
 
 - **Landsat 8 imagery** (`landsat8-2025-02-23-palisades-eaton.nc`): A clipped subset of Landsat 8 Collection 2 Level-2 surface reflectance data from February 23, 2025, containing the red, green, blue, near-infrared, and shortwave infrared bands. It was originally accessed through the Microsoft Planetary Computer, and is available through the [EDS 220 course Google Drive](https://drive.google.com/drive/folders/1USqhiMLyN8GE05B8WJmHabviJGnmAsLP?usp=sharing). It is intended for visualization and educational purposes only.
-- **Fire perimeters**: [Name of dataset] for the Palisades and Eaton fires from [provider, e.g. NIFC / CAL FIRE / LA County], accessed through [link].
+- **Fire perimeters** (`Eaton_Perimeter_20250121.geojson`, `Palisades_Perimieter_20250121.geojson`): Dissolved fire perimeters for the Eaton and Palisades fires as of January 21, 2025, from the [Palisades and Eaton Dissolved Fire Perimeters (2025)](https://egis-lacounty.hub.arcgis.com/datasets/ad51845ea5fb4eb483bc2a7c38b2370c) dataset on the LA County Enterprise GIS hub (source: CAL FIRE). Downloaded as GeoJSON.
 
 To run the analysis, download the Landsat file and the fire perimeter data, place them in a `data/` folder at the root of this repository, and run the notebook from top to bottom.
 
