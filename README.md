@@ -9,7 +9,7 @@ This assignment uses Landsat 8 satellite imagery to visualize the burn scars fro
 ```
 eds220-hwk4
 │   README.md                                # Overview of the repository
-│   hwk4-task2-false-color-latimer.ipynb     # Jupyter notebook with analysis
+│   hwk4-task2-false-color-LATIMER.ipynb     # Jupyter notebook with analysis
 │   .gitignore
 ```
 
